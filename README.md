@@ -13,17 +13,18 @@ pyPoll
 
 For pyBank analysis
 In order for the code to run, please follow the following steps:
-Please change your directory to be in the file Python-Challenge/pyBank/analysis
+Please change your directory to be in the file Python-Challenge/pyBank/analysis .
 Once in this folder, you'll be able to run 'main.py' in your terminal
   to run, enter in your terminal:
     python main.py
 
 For pyPoll analysis
 In order for the code to run, please follow the following steps:
-Please change your directory to be in the file Python-Challenge/pyPoll/analysis
+Please change your directory to be in the file Python-Challenge/pyPoll/analysis .
 Once in this folder, you'll be able to run 'main.py' in your terminal
   to run, enter in your terminal:
     python main.py
+    
 -------------------------------------------------------------------------------
 
 pyBank analysis is looking at the data provided in budget_data.csv and displaying the total number of entries, the average gains/losses of profit, revenue change from previous month to current month, as well as the maximum and minimum revenue change experienced since journal was created
